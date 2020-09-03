@@ -6,7 +6,7 @@
   - Task A - Linear Regression 2D
   - Task B - Linear Regression 3D
   - Task C - Non-Linear regression w/ Sigmoid
-- Assignment Two - MNIST Handwritten numbers predictor
+- Assignment Two
   - Task A - NOT-operator
   - Task B - NAND-operator
   - Task C - XOR-operator
