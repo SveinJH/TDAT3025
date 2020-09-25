@@ -18,3 +18,7 @@
   - Task B - CNN MNIST - two FC layers
   - Task C - CNN MNIST - three FC layers & minor tweaks
   - Task D - CNN Fashion MNIST
+  
+- Assignment Four
+  - Task A - Many to many LSTM
+  - Task B - Many to one LSTM
