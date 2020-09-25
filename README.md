@@ -22,3 +22,6 @@
 - Assignment Four
   - Task A - Many to many LSTM
   - Task B - Many to one LSTM
+  
+- Assignment Five
+  - Tasks - Feature exploration
